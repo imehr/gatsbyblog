@@ -1,5 +1,5 @@
 ---
-title: New Beginnings
+title: 3New Beginnings
 date: "2015-05-28T22:40:32.169Z"
 layout: post
 readNext: "/hosting-static-sites-with-docker-and-nginx/"
@@ -8,7 +8,7 @@ path: "/hi-folks/"
 
 *This post is going to be a little hard to read for those that don't speak latin.*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel neque dignissim mi maximus interdum. Cras dictum quam et ex molestie facilisis. Proin dapibus sed sapien nec gravida. Praesent at leo ut erat varius rhoncus at non mi. Quisque cursus non leo et varius. Maecenas porttitor scelerisque sapien at venenatis. Proin pellentesque gravida elementum. Nam eget porttitor ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean nec commodo lacus, eu mollis nisi. Nullam felis mi, tempus ac ipsum a, venenatis blandit magna. Sed mattis magna est, quis tincidunt massa aliquam vitae. Ut in ipsum blandit, ultrices lacus a, condimentum nibh. Sed commodo, lorem eget interdum molestie, lacus nisi lacinia velit, tempus commodo lacus erat porttitor dolor.
+3Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel neque dignissim mi maximus interdum. Cras dictum quam et ex molestie facilisis. Proin dapibus sed sapien nec gravida. Praesent at leo ut erat varius rhoncus at non mi. Quisque cursus non leo et varius. Maecenas porttitor scelerisque sapien at venenatis. Proin pellentesque gravida elementum. Nam eget porttitor ligula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean nec commodo lacus, eu mollis nisi. Nullam felis mi, tempus ac ipsum a, venenatis blandit magna. Sed mattis magna est, quis tincidunt massa aliquam vitae. Ut in ipsum blandit, ultrices lacus a, condimentum nibh. Sed commodo, lorem eget interdum molestie, lacus nisi lacinia velit, tempus commodo lacus erat porttitor dolor.
 
 Phasellus vitae ante justo. Fusce dui elit, finibus non posuere sed, ullamcorper at odio. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Pellentesque molestie lorem dolor, eget tincidunt ligula suscipit sit amet. Maecenas tempor nulla orci, sed scelerisque massa convallis id. Fusce iaculis nibh et lectus bibendum viverra. Nulla volutpat vehicula tortor non cursus. Maecenas vulputate mi nec accumsan ultricies. Praesent vitae tellus ligula. Praesent placerat fringilla purus, ac fermentum ipsum faucibus sed. Fusce semper, sapien hendrerit fringilla sagittis, lacus felis accumsan tellus, ac mollis ex arcu vitae lorem. Duis vitae semper felis. Duis consectetur, diam id laoreet suscipit, felis felis imperdiet sem, vel posuere leo ligula nec sapien. Maecenas at imperdiet nulla. Quisque quam nibh, feugiat vitae rhoncus ac, hendrerit eu quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
 
