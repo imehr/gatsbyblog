@@ -68,7 +68,7 @@ const BlogIndex = (props) => {
         <div className="author__intro">
           <strong>{config.authorName}</strong> spends more time tweaking the
           CSS and markup of this blog than writing.<br />
-          She's active on these social networks: <SocialNetworks />
+          He's active on these social networks: <SocialNetworks />
           </div>
         </div>
         <ul
