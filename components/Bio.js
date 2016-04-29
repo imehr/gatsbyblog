@@ -21,7 +21,7 @@ class Bio extends React.Component {
             height: rhythm(2),
           }}
         />
-        Written by <strong>{config.authorName}</strong> who lives and works in San Francisco building useful things. <a href="https://twitter.com/kylemathews">You should follow him on Twitter</a>
+        Written by <strong>{config.authorName}</strong> who lives and works in Sydney building useful things. <a href="https://twitter.com/imehr">You should follow him on Twitter</a>
       </p>
     )
   }
