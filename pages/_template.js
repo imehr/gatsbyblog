@@ -24,6 +24,11 @@ const Template = (props) => {
           margin: 'auto',
         }}
       >
+      <ul className="nav nav-tabs">
+        <li role="presentation" className="active"><a href="#">Home</a></li>
+        <li role="presentation"><a href="#">Profile</a></li>
+        <li role="presentation"><a href="#">Messages</a></li>
+      </ul>      
       <h1
         style={{
           fontSize: fontSizeToMS(2.5).fontSize,
@@ -41,6 +46,8 @@ const Template = (props) => {
         {config.blogTitle}
       </Link>
       </h1>
+
+
       </Container>
     )
   } else {

@@ -35,6 +35,7 @@ module.exports = React.createClass({
           { head.meta.toComponent() }
           { head.title.toComponent() }
           <link rel="shortcut icon" href={ favicon } />
+          <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bootswatch/3.3.6/cerulean/bootstrap.min.css"/>
           <TypographyStyle />
           {cssLink}
         </head>
